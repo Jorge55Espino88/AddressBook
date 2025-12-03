@@ -39,7 +39,7 @@ def especific_contact(id):
 
 def add_contact():
     date = datetime.now().date()
-    id = f"{date.year}{date.month}{date.day}-{len(address_book) + 1}"
+    id = f"{date.year}{date.month:02d}{date.day:02d}-{len(address_book) + 1}"
     name = input("Please enter the name of the contact: ").strip()
     last_name = input("Please enter the last name of the contact: ").strip()
     telephone = input("Please enter the telephone number of the contact: ").strip()

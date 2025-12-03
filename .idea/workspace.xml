@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="868a31b6-a90f-4b32-b878-08b7331327ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AddressBook.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="868a31b6-a90f-4b32-b878-08b7331327ad" name="Changes" comment="Primera version de la Agenda de Contactos, implementando programacion por procedimientos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jorge55Espino88"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Jorge55Espino88/AddressBook.git",
+    "accountId": "d635b667-d07d-4d64-b587-e857a026b41e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -114,6 +117,19 @@
       <option name="presentableId" value="Default" />
       <updated>1764525309711</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primera version de la Agenda de Contactos, implementando programacion por procedimientos">
+      <option name="closed" value="true" />
+      <created>1764799503195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764799503195</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primera version de la Agenda de Contactos, implementando programacion por procedimientos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primera version de la Agenda de Contactos, implementando programacion por procedimientos" />
   </component>
 </project>
